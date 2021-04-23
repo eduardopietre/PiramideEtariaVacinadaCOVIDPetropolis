@@ -1,0 +1,9 @@
+*.csv
+*.ipynb
+*.png
+.ipynb_checkpoints
+notebooks
+!petropolis vacinados 1 dose.csv
+!petropolis vacinados 2 dose.csv
+!piramide petropolis ibge censo corrigido.csv
+!Vacinação COVID-19 Em Petrópolis Por Faixa Etária e Gênero.png
